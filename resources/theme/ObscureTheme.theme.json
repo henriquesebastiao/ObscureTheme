@@ -1,7 +1,8 @@
 {
-  "name": "ObscureTheme",
+  "name": "Obscure Theme",
   "dark": true,
   "author": "Henrique Sebastião",
+  "editorScheme": "/theme/ObscureTheme.xml",
   "colors": {
     "accentColor": "#ff79c6",
     "secondaryAccentColor": "#ff79c6",
