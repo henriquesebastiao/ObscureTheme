@@ -1,3 +1,8 @@
+<!--
+MANUAL:
+Pra fontes em itálico: <option name="FONT_TYPE" value="2" />
+-->
+
 <scheme name="Obscure" version="142" parent_scheme="Darcula">
     <colors>
         <option name="ADDED_LINES_COLOR" value="48b764" />
@@ -1376,6 +1381,7 @@
         <option name="PY.KEYWORD">
             <value>
                 <option name="FOREGROUND" value="ff79c6" />
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="PY.KEYWORD_ARGUMENT">
