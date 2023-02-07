@@ -1386,17 +1386,20 @@ Pra fontes em itálico: <option name="FONT_TYPE" value="2" />
         </option>
         <option name="PY.KEYWORD_ARGUMENT">
             <value>
-                <option name="FOREGROUND" value="6272a4" />
+                <option name="FOREGROUND" value="eca85c" />
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="PY.LINE_COMMENT">
             <value>
                 <option name="FOREGROUND" value="6272a4" />
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="PY.METHOD_CALL">
             <value>
-                <option name="FOREGROUND" value="50fa7b" />
+                <option name="FOREGROUND" value="79dff3" />
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="PY.NUMBER">
