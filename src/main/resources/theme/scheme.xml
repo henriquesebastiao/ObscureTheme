@@ -3,7 +3,7 @@
         <option name="ADDED_LINES_COLOR" value="48b764" />
         <option name="ANNOTATIONS_COLOR" value="282a35" />
         <option name="CARET_COLOR" value="cccccc" />
-        <option name="CARET_ROW_COLOR" value="13141f" />
+        <option name="CARET_ROW_COLOR" value="44475a" />
         <option name="CONSOLE_BACKGROUND_KEY" value="13141f" />
         <option name="DELETED_LINES_COLOR" value="cd4644" />
         <option name="DOCUMENTATION_COLOR" value="3a3d4c" />
@@ -29,7 +29,7 @@
         <option name="FILESTATUS_addedOutside" value="50fa7b" />
         <option name="FILESTATUS_changelistConflict" value="ff5555" />
         <option name="FILESTATUS_modifiedOutside" value="8be9fd" />
-        <option name="GUTTER_BACKGROUND" value="181928" />
+        <option name="GUTTER_BACKGROUND" value="13141f" />
         <option name="INDENT_GUIDE" value="3e404b" />
         <option name="INFORMATION_HINT" value="3a3d4c" />
         <option name="LINE_NUMBERS_COLOR" value="a3a5ba" />

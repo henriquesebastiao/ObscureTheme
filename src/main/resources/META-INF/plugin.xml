@@ -1,26 +1,26 @@
-<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
-    <id>ObscureTheme</id>
-    <version>0.0.1</version>
+    <id>Obscure Theme</id>
+    <version>0.1.0</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
-    <name>ObscureTheme</name>
+    <name>Obscure Theme</name>
     <category>UI</category>
 
-    <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="support@yourcompany.com" url="https://www.yourcompany.com">YourCompany</vendor>
+    <vendor email="support@henriquesebastiao.com" url="https://www.henriquesebastiao.com">Henrique Sebastião</vendor>
 
     <idea-version since-build="221" until-build="231.*"/>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
-    <description><![CDATA[
-    Enter short description for your theme here.<br>
-    <em>most HTML tags may be used</em>
-  ]]></description>
+    <description>
+        <![CDATA[
+    Just a Dark Theme for JetBrains Platform IDEs.
+    <br>
+    <strong>Contributions are welcome</strong> with <a href="https://github.com/henriquesebastiao/ObscureTheme">GitHub</a>.
+        ]]>
+    </description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
@@ -33,6 +33,6 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="ObscureTheme" path="/theme/ObscureTheme.theme.json"/>
+        <themeProvider id="ObscureTheme" path="/theme/obscure.theme.json"/>
     </extensions>
 </idea-plugin>
