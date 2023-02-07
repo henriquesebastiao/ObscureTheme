@@ -27,6 +27,4 @@
   <strong>Contributions are welcome</strong> on <a href="https://github.com/henriquesebastiao/ObscureTheme">GitHub</a>
 </p>
 
-<p align="center">
-  <h5>Developed by <em>Henrique Sebastião</em></h5>
-</p>
+<h6 align="center">Developed by <em>Henrique Sebastião</em></h6>
